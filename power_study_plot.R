@@ -1,5 +1,6 @@
 library(extraDistr)
 library(pracma)
+library(ggplot2)
 
 #Significance level
 sig = 0.05
@@ -19,9 +20,10 @@ chisquare = function(cluster,db){
   return(S)
 }
 
+
 #Label probabilities
-clusterprobs = c(c(1/5, 1/5), rep(3/115,23))
-dbprobs = c(rep(3/115,23),c(1/5, 1/5))
+clusterprobs = c(rep(1/5,3), rep(2/35, 7))
+dbprobs = c(rep(2/45,9), 3/5)
 
 #Sample sizes
 nvec = c(3, 5, 10, 20, 50)
@@ -30,9 +32,9 @@ powvec = c()
 for (n in nvec){
 
   #Number of Monte Carlo simulations for approximating the power
-  iter = 1000
+  iter = 300
   #Number of Monte Carlo simulations for the permutation test
-  iter2 = 500
+  iter2 = 300
   
   pow = c()
   for (k in 1:iter){
@@ -54,3 +56,6 @@ for (n in nvec){
   }
   powvec = c(powvec, sum(pow)/iter)
 }
+
+plot(x=nvec, y=powvec, xlab = "Sample size n", ylab = "Power")
+lines(x=nvec, y=powvec)
