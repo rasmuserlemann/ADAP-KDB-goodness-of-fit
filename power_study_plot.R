@@ -1,6 +1,6 @@
 library(extraDistr)
 library(pracma)
-library(ggplot2)
+
 
 #Significance level
 sig = 0.05
@@ -13,17 +13,19 @@ chisquare = function(cluster,db){
   S = 0
   #Add 1/2 to both obs and exp to avoid division by 0
   for (el in all){
-    obs = length(cluster[cluster==el]) + 1/2
-    exp = length(db[db==el])*(n/m) + 1/2
-    S = S + ((obs-exp)**2)/exp
+    obs1 = length(cluster[cluster==el]) + 1/2
+    obs2 = length(cluster[cluster==el]) + 1/2
+    exp1 = n*(length(cluster[cluster==el])+length(db[db==el]))/(n+m)
+    exp2 = m*(length(cluster[cluster==el])+length(db[db==el]))/(n+m)
+    S = S + ((obs1-exp1)**2)/exp1 + ((obs2-exp2)**2)/exp2
   }
   return(S)
 }
 
 
 #Label probabilities
-clusterprobs = c(rep(1/5,3), rep(2/35, 7))
-dbprobs = c(rep(2/45,9), 3/5)
+clusterprobs = rep(1/10,10)
+dbprobs = rep(1/10,10)
 
 #Sample sizes
 nvec = c(3, 5, 10, 20, 50)
@@ -32,9 +34,9 @@ powvec = c()
 for (n in nvec){
 
   #Number of Monte Carlo simulations for approximating the power
-  iter = 300
+  iter = 1000
   #Number of Monte Carlo simulations for the permutation test
-  iter2 = 300
+  iter2 = 1000
   
   pow = c()
   for (k in 1:iter){
@@ -57,5 +59,5 @@ for (n in nvec){
   powvec = c(powvec, sum(pow)/iter)
 }
 
-plot(x=nvec, y=powvec, xlab = "Sample size n", ylab = "Power")
+plot(x=nvec, y=powvec, ylim=c(0,1), xlab="", ylab='')
 lines(x=nvec, y=powvec)
