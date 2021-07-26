@@ -15,8 +15,8 @@ chisquare = function(cluster,db){
   for (el in all){
     obs1 = length(cluster[cluster==el]) + 1/2
     obs2 = length(cluster[cluster==el]) + 1/2
-    exp1 = n*(length(cluster[cluster==el])+length(db[db==el]))/(n+m)
-    exp2 = m*(length(cluster[cluster==el])+length(db[db==el]))/(n+m)
+    exp1 = n*(length(cluster[cluster==el])+length(db[db==el]))/(n+m) + 1/2
+    exp2 = m*(length(cluster[cluster==el])+length(db[db==el]))/(n+m) + 1/2
     S = S + ((obs1-exp1)**2)/exp1 + ((obs2-exp2)**2)/exp2
   }
   return(S)
@@ -34,16 +34,15 @@ powvec = c()
 for (n in nvec){
 
   #Number of Monte Carlo simulations for approximating the power
-  iter = 1000
+  iter = 100
   #Number of Monte Carlo simulations for the permutation test
-  iter2 = 1000
+  iter2 = 100
   
   pow = c()
   for (k in 1:iter){
     cluster = rcat(n, clusterprobs)
     db = rcat(m, dbprobs)
     statobs = chisquare(cluster,db)
-    
     statdistr = c()
     for (kk in 1:iter2){
       permutation = randperm(c(cluster,db), n+m)
