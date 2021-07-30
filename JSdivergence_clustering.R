@@ -1,6 +1,3 @@
-library(extraDistr)
-library(pracma)
-
 #Calculate Jensen-Shannon divergence between two samples
 JSdiv = function(cluster,db){
   all = unique(c(cluster,db))
