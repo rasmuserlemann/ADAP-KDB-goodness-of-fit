@@ -25,12 +25,26 @@ JSdiv = function(cluster,db){
   return(S)
 }
 
+JSmat = function(x){
+  n = length(x)
+  Dmat = matrix(nrow=n,ncol=n)
+  for (ind1 in 1:n){
+    for (ind2 in 1:n){
+      sample1 = x[[ind1]]
+      sample2 = x[[ind2]]
+      Dmat[ind1,ind2]=JSdiv(sample1,sample2)
+    }
+  }
+  return(Dmat)
+}
+
 d1 = c(1,2,3)
 d2 = c(2,2,1)
 d3 = c(1,2,4,4)
+d4 = c(1,1,2,3)
 
-cat("JS-divergence between d1 and d2 is ", JSdiv(d1,d2))
-cat("JS-divergence between d1 and d2 is ", JSdiv(d1,d3))
-cat("JS-divergence between d1 and d2 is ", JSdiv(d2,d3))
+testmat = as.dist(JSmat(list(d1,d2,d3,d4)))
+clusters = hclust(testmat)
+plot(clusters, ylab = "JS distance", xlab = "Samples")
 
 
