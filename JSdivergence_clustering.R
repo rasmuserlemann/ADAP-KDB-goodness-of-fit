@@ -1,4 +1,4 @@
-
+library(ape)
 
 #Calculate Jensen-Shannon divergence between two samples
 JSdiv = function(cluster,db){
@@ -46,19 +46,18 @@ data = list()
 this.dir <- dirname(parent.frame(2)$ofile)
 setwd(this.dir)
 
-d = read.table(file = 'distributions2species.txt', sep = '\t', header = FALSE, nrow=20, stringsAsFactors = FALSE)
+d = read.table(file = 'distributions2species.txt', sep = '\t', header = FALSE, nrow=200, stringsAsFactors = FALSE)
 
 i = 1
 for (row in 2:nrow(d)){
   cluster = strsplit(d[row,11], ',')[[1]]
-  db = strsplit(d[row,12], ',')[[1]]
   data[[i]] = cluster
   i = i+1
-  data[[i]] = db
-  i = i+1
 }
+
 testmat = as.dist(JSmat(data))
 clusters = hclust(testmat)
-plot(clusters, ylab = "JS distance", xlab = "Cluster and DB samples")
-
+#plot(clusters, ylab = "JS distance", xlab = "Cluster and DB samples")
+res = pcoa(testmat, rn=NULL)
+biplot(res)
 
