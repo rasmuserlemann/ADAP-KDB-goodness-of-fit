@@ -1,4 +1,5 @@
 library(ape)
+library(tidyr)
 
 #Calculate Jensen-Shannon divergence between two samples
 JSdiv = function(cluster,db){
@@ -46,7 +47,7 @@ data = list()
 this.dir <- dirname(parent.frame(2)$ofile)
 setwd(this.dir)
 
-d = read.table(file = 'distributions2species.txt', sep = '\t', header = FALSE, nrow=200, stringsAsFactors = FALSE)
+d = read.table(file = 'distributions2species.txt', sep = '\t', nrow=1000, header = FALSE, stringsAsFactors = FALSE)
 
 i = 1
 for (row in 2:nrow(d)){
