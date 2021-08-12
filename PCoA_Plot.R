@@ -47,12 +47,14 @@ this.dir <- dirname(parent.frame(2)$ofile)
 setwd(this.dir)
 
 d = read.table(file = 'distributions2species.txt', sep = '\t', header = FALSE, stringsAsFactors = FALSE)
-d = d[sample(nrow(d), 1000), ]
+#d = d[sample(nrow(d), 1000), ]
 
 i = 1
 for (row in 2:nrow(d)){
   cluster = strsplit(d[row,11], ',')[[1]]
-  data[[i]] = cluster
+  if (length(cluster)>=3){
+    data[[i]] = cluster
+  }
   i = i+1
 }
 
@@ -60,15 +62,23 @@ testmat = as.dist(JSmat(data))
 clusters = hclust(testmat, method = "average")
 #Dendrogram
 #plot(clusters, ylab = "JS distance", xlab = "Cluster samples species")
-res = pcoa(testmat )
+res = pcoa(testmat)
 
 #Variance explained by the PCoA
 PC1var = 100*res$values$Relative_eig[1]/res$trace
 PC2var = 100*res$values$Relative_eig[2]/res$trace
 PC3var = 100*res$values$Relative_eig[3]/res$trace
 
-
-
 plot(res$vectors[,1], res$vectors[,2], pch=20, col=cutree(clusters,3), xlab="1. PCo", ylab="2. PCo")
 #plot(res$vectors[,1], res$vectors[,3],pch=20, col=cutree(clusters,3), xlab="1. principal coordinate", ylab="3. principal coordinate")
 #plot(res$vectors[,2], res$vectors[,3],pch=20, col=cutree(clusters,3), xlab="2. principal coordinate", ylab="3. principal coordinate")
+
+#clusterGroups<- cutree(clusters,k=3)
+#cluster1ind = sample(which(clusterGroups==1),1)
+#cluster2ind = sample(which(clusterGroups==2),1)
+#cluster3ind = sample(which(clusterGroups==3),1)
+#print(data[cluster1ind])
+#print(data[cluster2ind])
+#print(data[cluster3ind])
+
+
