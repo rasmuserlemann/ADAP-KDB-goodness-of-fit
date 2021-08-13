@@ -52,10 +52,10 @@ d = read.table(file = 'distributions2species.txt', sep = '\t', header = FALSE, s
 i = 1
 for (row in 2:nrow(d)){
   cluster = strsplit(d[row,11], ',')[[1]]
-  if (length(cluster)>=3){
+  if (length(cluster)>2){
     data[[i]] = cluster
+    i = i+1
   }
-  i = i+1
 }
 
 testmat = as.dist(JSmat(data))
