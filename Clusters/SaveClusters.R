@@ -61,26 +61,17 @@ for (row in 2:nrow(d)){
 testmat = as.dist(JSmat(data))
 clusters = hclust(testmat, method = "average")
 #Dendrogram
-#plot(clusters, ylab = "JS distance", xlab = "Cluster samples species")
-#res = pcoa(testmat)
+plot(clusters, ylab = "JS distance", xlab = "Cluster samples species")
 
-mycl <- cutree(clusters, h=0.5)
+mycl <- cutree(clusters, h=0.4)
 
-#Variance explained by the PCoA
-allvar = var(res$values[,1])+var(res$values[,2])+var(res$values[,3])+var(res$values[,4])+var(res$values[,5])+var(res$values[,6])
-PC1var = round(var(res$values[,1])/allvar,2)
-PC2var = round(var(res$values[,2])/allvar,2)
-print(PC2var)
 
-#plot(res$vectors[,1], res$vectors[,2], pch=20, col=cutree(clusters,3), xlab="1. PCo", ylab="2. PCo")
-#plot(res$vectors[,1], res$vectors[,3],pch=20, col=cutree(clusters,3), xlab="1. principal coordinate", ylab="3. principal coordinate")
-#plot(res$vectors[,2], res$vectors[,3],pch=20, col=cutree(clusters,3), xlab="2. principal coordinate", ylab="3. principal coordinate")
-#clusterGroups<- cutree(clusters,k=3)
-#cluster1ind = sample(which(clusterGroups==1),1)
-#cluster2ind = sample(which(clusterGroups==2),1)
-#cluster3ind = sample(which(clusterGroups==3),1)
-#print(data[cluster1ind])
-#print(data[cluster2ind])
-#print(data[cluster3ind])
+for (row in 2:nrow(d)){
+  cluster = strsplit(d[row,11], ',')[[1]]
+  if (length(cluster)>2){
+    data[[i]] = cluster
+    i = i+1
+  }
+}
 
 
