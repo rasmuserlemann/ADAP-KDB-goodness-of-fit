@@ -65,13 +65,38 @@ plot(clusters, ylab = "JS distance", xlab = "Cluster samples species")
 
 mycl <- cutree(clusters, h=0.4)
 
+cl1 = list()
+cl2 = list()
+cl3 = list()
+cl4 = list()
+cl5 = list()
+cl6 = list()
 
+
+i=1
 for (row in 2:nrow(d)){
   cluster = strsplit(d[row,11], ',')[[1]]
   if (length(cluster)>2){
-    data[[i]] = cluster
+    if (mycl[i]==1){
+      cl1[[length(cl1)+1]] = cluster
+    }
+    if (mycl[i]==2){
+      cl2[[length(cl2)+1]] = cluster
+    }
+    if (mycl[i]==3){
+      cl3[[length(cl3)+1]] = cluster
+    }
+    if (mycl[i]==4){
+      cl4[[length(cl4)+1]] = cluster
+    }
+    if (mycl[i]==5){
+      cl5[[length(cl5)+1]] = cluster
+    }
+    if (mycl[i]==6){
+      cl6[[length(cl6)+1]] = cluster
+    }
     i = i+1
   }
 }
 
-
+barplot(table(unlist(cl5)))
