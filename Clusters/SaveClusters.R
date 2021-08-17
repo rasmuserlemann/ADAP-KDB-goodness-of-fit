@@ -99,4 +99,4 @@ for (row in 2:nrow(d)){
   }
 }
 
-barplot(table(unlist(cl2)),las=2)
+barplot(table(unlist(cl6)),las=2)

@@ -20,11 +20,11 @@ chisquare = function(cluster,db){
 }
 
 #Label probabilities
-clusterprobs = c(c(1/5, 1/5), rep(3/115,23))
-dbprobs = c(rep(3/115,23),c(1/5, 1/5))
+clusterprobs = c(0, 0.01470588, 0.11764706, 0.45588235, 0, 0.04411765, 0.10294118, 0.05882353, 0, 0, 0.08823529, 0, 0.01470588, 0.02941176, 0, 0.01470588, 0.05882353, 0)
+dbprobs = c(0, 0.012906448, 0.039190898, 0.041297935, 0.004214075, 0.015170670, 0.025705858, 0.044669195, 0.008849558, 0.432364096, 0.240202276, 0.006742520, 0.034134008, 0.034134008, 0.025284450, 0.013063633, 0.021070375, 0)
 
 #Sample sizes
-nvec = c(3, 5, 10, 20, 50)
+nvec = c(3,5,10,20,50)
 m = 50
 powvec = c()
 for (n in nvec){
@@ -32,7 +32,7 @@ for (n in nvec){
   #Number of Monte Carlo simulations for approximating the power
   iter = 1000
   #Number of Monte Carlo simulations for the permutation test
-  iter2 = 500
+  iter2 = 1000
   
   pow = c()
   for (k in 1:iter){
