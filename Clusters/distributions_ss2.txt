@@ -1,0 +1,465 @@
+	0
+0	intestine,algae,yeast cells,kidney,cultured cells,liver,liver,liver,adipose tissue,adipose tissue,bacterial cells,bacterial cells,blood,blood,blood,blood,blood,blood,lung,cerebrospinal fluid,cerebrospinal fluid,breast,feces,feces
+1	intestine,intestine,urine,algae,yeast cells,kidney,cultured cells,cultured cells,cultured cells,liver,liver,liver,adipose tissue,adipose tissue,bacterial cells,bacterial cells,bacterial cells,bacterial cells,bacterial cells,blood,blood,blood,blood,blood,blood,blood,blood,lung,lung,b cells,cerebrospinal fluid,cerebrospinal fluid,breast,feces,feces
+2	intestine,liver,blood,blood
+3	liver,blood,blood,blood,blood,blood,blood,lung
+4	liver,adipose tissue,blood,blood,blood,blood,blood,lung,cerebrospinal fluid
+5	intestine,intestine,urine,algae,yeast cells,kidney,cultured cells,cultured cells,cultured cells,liver,liver,liver,adipose tissue,adipose tissue,bacterial cells,bacterial cells,bacterial cells,bacterial cells,blood,blood,blood,blood,blood,blood,blood,blood,blood,lung,lung,b cells,cerebrospinal fluid,cerebrospinal fluid,feces,feces
+6	blood,blood,blood
+7	intestine,intestine,urine,yeast cells,kidney,cultured cells,liver,liver,adipose tissue,adipose tissue,bacterial cells,blood,blood,blood,blood,blood,blood,blood,lung,lung,cerebrospinal fluid,cerebrospinal fluid,feces
+8	intestine,urine,kidney,cultured cells,cultured cells,liver,liver,adipose tissue,bacterial cells,blood,blood,blood,blood,blood,blood,blood,blood,lung,b cells,cerebrospinal fluid,cerebrospinal fluid,breast
+9	algae,yeast cells,cultured cells,liver,liver,adipose tissue,bacterial cells,blood,blood,blood,blood,blood,blood,lung,cerebrospinal fluid,cerebrospinal fluid,feces
+10	liver,blood,blood,blood,blood,blood,lung
+11	intestine,urine,algae,yeast cells,kidney,cultured cells,cultured cells,liver,liver,liver,adipose tissue,adipose tissue,bacterial cells,bacterial cells,bacterial cells,bacterial cells,bacterial cells,blood,blood,blood,blood,blood,blood,blood,lung,lung,b cells,cerebrospinal fluid,cerebrospinal fluid,breast,feces,feces
+12	urine,cultured cells,blood,b cells,cerebrospinal fluid,cerebrospinal fluid,feces
+13	bacterial cells,blood,feces
+14	urine,algae,yeast cells,kidney,cultured cells,cultured cells,cultured cells,liver,liver,liver,bacterial cells,bacterial cells,bacterial cells,blood,blood,blood,blood,lung,b cells,breast
+15	liver,blood,blood,blood
+16	intestine,liver,liver,adipose tissue,adipose tissue,blood,blood,blood,blood,blood,blood,blood,blood,lung,lung,b cells,feces,feces
+17	intestine,kidney,cultured cells,cultured cells,cultured cells,liver,liver,adipose tissue,adipose tissue,bacterial cells,bacterial cells,blood,blood,blood,blood,blood,blood,lung,lung,cerebrospinal fluid,breast,feces,feces
+18	intestine,kidney,cultured cells,cultured cells,liver,liver,bacterial cells,bacterial cells,bacterial cells,blood,blood,blood,lung,cerebrospinal fluid,breast
+19	intestine,adipose tissue,bacterial cells,bacterial cells,blood,cerebrospinal fluid,cerebrospinal fluid,feces
+20	algae,kidney,cultured cells,liver,liver,liver,adipose tissue,adipose tissue,bacterial cells,bacterial cells,bacterial cells,blood,blood,blood,blood,blood,cerebrospinal fluid,breast
+21	intestine,cultured cells,cultured cells,liver,liver,adipose tissue,adipose tissue,bacterial cells,bacterial cells,bacterial cells,blood,blood,blood,blood,blood,blood,breast
+22	intestine,intestine,urine,algae,yeast cells,kidney,cultured cells,cultured cells,cultured cells,liver,liver,liver,adipose tissue,adipose tissue,bacterial cells,bacterial cells,bacterial cells,bacterial cells,bacterial cells,blood,blood,blood,blood,blood,blood,blood,blood,blood,lung,lung,b cells,cerebrospinal fluid,cerebrospinal fluid,breast,feces,feces
+23	algae,liver,liver,liver,adipose tissue,adipose tissue,bacterial cells,bacterial cells,blood,blood,blood,blood,blood,blood,blood,blood,blood,lung
+24	intestine,urine,algae,cultured cells,bacterial cells,bacterial cells,blood,feces,feces
+25	intestine,intestine,urine,algae,yeast cells,kidney,cultured cells,cultured cells,cultured cells,liver,liver,liver,adipose tissue,adipose tissue,bacterial cells,bacterial cells,bacterial cells,bacterial cells,bacterial cells,blood,blood,blood,blood,blood,blood,blood,blood,blood,b cells,cerebrospinal fluid,cerebrospinal fluid,breast,feces
+26	intestine,yeast cells,cultured cells,liver,liver,adipose tissue,bacterial cells,bacterial cells,blood,blood,blood,blood,blood,blood,blood,blood,lung,breast
+27	intestine,intestine,urine,kidney,cultured cells,cultured cells,liver,liver,liver,adipose tissue,adipose tissue,bacterial cells,bacterial cells,bacterial cells,blood,blood,blood,blood,blood,blood,blood,lung,cerebrospinal fluid,cerebrospinal fluid,breast,feces,feces
+28	intestine,intestine,kidney,cultured cells,liver,liver,adipose tissue,bacterial cells,bacterial cells,blood,blood,blood,blood,blood,b cells,breast,feces,feces
+29	intestine,kidney,cultured cells,liver,liver,liver,adipose tissue,adipose tissue,blood,blood,blood,blood,blood,blood,blood,blood,blood,lung,lung,b cells,cerebrospinal fluid,breast,feces,feces
+30	urine,algae,kidney,liver,liver,liver,adipose tissue,adipose tissue,bacterial cells,bacterial cells,bacterial cells,bacterial cells,blood,blood,blood,blood,blood,blood,blood,cerebrospinal fluid,cerebrospinal fluid
+31	urine,algae,yeast cells,cultured cells,liver,liver,liver,adipose tissue,bacterial cells,blood,blood,blood,blood,blood,blood,blood,blood,lung,lung,feces
+32	intestine,kidney,cultured cells,cultured cells,cultured cells,liver,adipose tissue,adipose tissue,bacterial cells,bacterial cells,bacterial cells,bacterial cells,blood,blood,blood,blood,blood,cerebrospinal fluid,breast,feces,feces
+33	liver,blood,blood,blood,blood,blood,blood,lung
+34	intestine,yeast cells,cultured cells,cultured cells,liver,liver,bacterial cells,bacterial cells,blood,blood,blood,blood,blood,lung,b cells,cerebrospinal fluid,breast,feces,feces
+35	intestine,liver,bacterial cells,blood,blood
+36	intestine,urine,algae,yeast cells,kidney,cultured cells,cultured cells,liver,liver,liver,adipose tissue,adipose tissue,bacterial cells,bacterial cells,bacterial cells,bacterial cells,bacterial cells,blood,blood,blood,blood,blood,blood,lung,b cells,cerebrospinal fluid,cerebrospinal fluid,breast,feces
+37	intestine,intestine,algae,yeast cells,kidney,cultured cells,cultured cells,liver,liver,liver,adipose tissue,bacterial cells,bacterial cells,bacterial cells,bacterial cells,blood,blood,blood,blood,blood,blood,blood,lung,lung,b cells,cerebrospinal fluid,cerebrospinal fluid,breast,feces,feces
+38	intestine,intestine,yeast cells,cultured cells,liver,adipose tissue,adipose tissue,bacterial cells,bacterial cells,blood,blood,blood,blood,blood,blood,lung,b cells,feces,feces
+39	intestine,intestine,urine,algae,yeast cells,kidney,cultured cells,cultured cells,cultured cells,liver,liver,adipose tissue,adipose tissue,bacterial cells,bacterial cells,bacterial cells,bacterial cells,blood,blood,blood,blood,blood,blood,blood,lung,cerebrospinal fluid,cerebrospinal fluid,breast
+40	liver,blood,blood
+41	intestine,kidney,cultured cells,liver,bacterial cells,blood,blood,blood,blood,blood,lung,feces,feces
+42	algae,cultured cells,cultured cells,liver,bacterial cells,blood,blood,blood,lung,cerebrospinal fluid
+43	intestine,intestine,urine,algae,kidney,cultured cells,cultured cells,liver,adipose tissue,adipose tissue,bacterial cells,bacterial cells,bacterial cells,blood,blood,blood,blood,blood,blood,blood,blood,b cells,cerebrospinal fluid,cerebrospinal fluid,breast,feces
+44	urine,kidney,cultured cells,liver,liver,adipose tissue,blood,blood,lung,lung,b cells,cerebrospinal fluid,cerebrospinal fluid,breast,feces
+45	intestine,algae,bacterial cells,blood,blood,feces
+46	intestine,intestine,urine,algae,yeast cells,kidney,cultured cells,cultured cells,cultured cells,liver,adipose tissue,adipose tissue,bacterial cells,bacterial cells,bacterial cells,blood,blood,blood,blood,blood,blood,blood,lung,lung,b cells,cerebrospinal fluid,cerebrospinal fluid,breast,feces,feces
+47	intestine,intestine,urine,algae,yeast cells,kidney,cultured cells,liver,liver,liver,adipose tissue,adipose tissue,bacterial cells,blood,blood,blood,blood,blood,blood,blood,blood,lung,lung,b cells,cerebrospinal fluid,breast,feces,feces
+48	urine,algae,cultured cells,blood,blood,blood,blood,blood,blood,lung,cerebrospinal fluid,cerebrospinal fluid,feces
+49	urine,kidney,cultured cells,liver,adipose tissue,blood,blood,blood,blood,lung,cerebrospinal fluid,cerebrospinal fluid
+50	adipose tissue,adipose tissue,blood,blood,blood,blood
+51	cultured cells,cultured cells,blood,blood
+52	intestine,kidney,adipose tissue,blood,lung,b cells,breast
+53	intestine,algae,cultured cells,liver,liver,adipose tissue,blood,blood,blood,blood,blood,cerebrospinal fluid,cerebrospinal fluid,breast
+54	intestine,intestine,algae,yeast cells,kidney,cultured cells,cultured cells,cultured cells,liver,liver,adipose tissue,adipose tissue,bacterial cells,bacterial cells,bacterial cells,bacterial cells,bacterial cells,blood,blood,blood,blood,lung,lung,b cells,breast,feces,feces
+55	intestine,cultured cells,liver,liver,adipose tissue,adipose tissue,bacterial cells,blood,blood,blood,blood,blood,blood,blood,blood,lung,lung,b cells,breast,feces
+56	intestine,urine,algae,kidney,cultured cells,cultured cells,cultured cells,liver,liver,liver,adipose tissue,adipose tissue,bacterial cells,bacterial cells,blood,blood,blood,blood,blood,blood,lung,lung,b cells,cerebrospinal fluid,breast,feces,feces
+57	liver,blood,blood,blood
+58	intestine,kidney,cultured cells,blood,lung,lung
+59	intestine,algae,kidney,cultured cells,cultured cells,cultured cells,liver,liver,liver,adipose tissue,blood,blood,blood,blood,blood,lung,b cells,breast
+60	intestine,kidney,liver,liver,adipose tissue,adipose tissue,blood,blood,blood,blood,blood,blood,blood,lung,lung,b cells
+61	urine,blood,cerebrospinal fluid
+62	liver,blood,blood
+63	intestine,intestine,urine,kidney,adipose tissue,bacterial cells,bacterial cells,bacterial cells,blood,blood,blood,blood,lung,cerebrospinal fluid,cerebrospinal fluid,breast
+64	bacterial cells,bacterial cells,b cells,breast
+65	intestine,algae,yeast cells,cultured cells,cultured cells,cultured cells,liver,liver,liver,bacterial cells,bacterial cells,bacterial cells,blood,blood,lung,lung,b cells,breast
+66	algae,yeast cells,bacterial cells,blood,breast
+67	intestine,kidney,cultured cells,adipose tissue,bacterial cells,bacterial cells,lung,lung,b cells,breast,feces,feces
+68	intestine,algae,yeast cells,kidney,cultured cells,cultured cells,adipose tissue,bacterial cells,bacterial cells,blood,blood,blood,blood,lung,breast,feces,feces
+69	intestine,yeast cells,kidney,adipose tissue,bacterial cells,bacterial cells,blood,blood,blood,blood,lung,b cells,breast,feces,feces
+70	intestine,kidney,liver,liver,adipose tissue,bacterial cells,bacterial cells,blood,blood,breast
+71	liver,blood,b cells,breast
+72	kidney,cultured cells,bacterial cells,lung,breast
+73	intestine,yeast cells,bacterial cells,bacterial cells,breast
+74	breast,feces,feces
+75	intestine,cultured cells,cultured cells,breast
+76	yeast cells,kidney,cultured cells,cultured cells,liver,liver,bacterial cells,bacterial cells,bacterial cells,bacterial cells,blood,lung,b cells,breast
+77	liver,b cells,breast
+78	cultured cells,bacterial cells,bacterial cells,bacterial cells,breast
+79	cultured cells,b cells,breast
+80	cultured cells,liver,b cells,breast
+81	cultured cells,bacterial cells,bacterial cells,bacterial cells,breast
+82	algae,cultured cells,cultured cells,b cells,breast
+83	bacterial cells,bacterial cells,bacterial cells,breast
+84	intestine,intestine,kidney,bacterial cells,bacterial cells,b cells,breast
+85	yeast cells,liver,bacterial cells,blood,breast
+86	intestine,intestine,bacterial cells,bacterial cells,bacterial cells,breast,feces
+87	intestine,yeast cells,kidney,liver,liver,adipose tissue,bacterial cells,bacterial cells,bacterial cells,blood,lung,lung,b cells,breast
+88	liver,adipose tissue,blood,lung,lung,b cells,breast,feces,feces
+89	intestine,liver,b cells,breast
+90	intestine,yeast cells,kidney,cultured cells,cultured cells,bacterial cells,bacterial cells,b cells,breast
+91	adipose tissue,bacterial cells,breast
+92	kidney,cultured cells,lung,b cells,breast
+93	liver,lung,breast
+94	urine,yeast cells,cultured cells,bacterial cells,blood,blood,blood,blood,lung,b cells,cerebrospinal fluid,cerebrospinal fluid
+95	intestine,liver,adipose tissue,blood,blood,blood,blood,blood,blood,cerebrospinal fluid,cerebrospinal fluid
+96	urine,yeast cells,cultured cells,liver,bacterial cells,bacterial cells,blood,cerebrospinal fluid
+97	cultured cells,lung,cerebrospinal fluid
+98	urine,cultured cells,bacterial cells,cerebrospinal fluid
+99	intestine,urine,liver,b cells,cerebrospinal fluid,cerebrospinal fluid
+100	intestine,urine,kidney,cultured cells,liver,lung,b cells,cerebrospinal fluid,cerebrospinal fluid,feces
+101	yeast cells,bacterial cells,cerebrospinal fluid
+102	intestine,intestine,urine,bacterial cells,bacterial cells,cerebrospinal fluid,cerebrospinal fluid,feces,feces
+103	intestine,liver,adipose tissue,adipose tissue,bacterial cells,blood,blood,cerebrospinal fluid
+104	cultured cells,adipose tissue,cerebrospinal fluid
+105	bacterial cells,cerebrospinal fluid,cerebrospinal fluid
+106	cultured cells,cultured cells,adipose tissue,bacterial cells,lung,lung,cerebrospinal fluid,cerebrospinal fluid,feces,feces
+107	intestine,intestine,adipose tissue,bacterial cells,blood,blood,blood,blood,feces
+108	liver,liver,adipose tissue,blood
+109	adipose tissue,blood,blood,blood,blood,blood,blood,lung
+110	intestine,yeast cells,adipose tissue,bacterial cells,blood,blood,lung
+111	intestine,yeast cells,liver,adipose tissue,bacterial cells,lung,lung,feces
+112	intestine,urine,kidney,adipose tissue,blood,blood,blood
+113	yeast cells,adipose tissue,bacterial cells
+114	intestine,kidney,adipose tissue,lung
+115	liver,adipose tissue,blood
+116	liver,adipose tissue,blood,blood,blood
+117	yeast cells,adipose tissue,bacterial cells,lung,cerebrospinal fluid
+118	intestine,cultured cells,liver,adipose tissue,blood
+119	urine,algae,macrophages,liver,bacterial cells,brain,blood,blood,plant,feces
+120	algae,macrophages,bacterial cells,brain,feces
+121	algae,macrophages,bacterial cells
+122	urine,macrophages,bacterial cells,brain,feces
+123	macrophages,bacterial cells,brain,blood,plant
+124	urine,bacterial cells,feces
+125	urine,heart tissue,macrophages,muscle,bacterial cells,blood,blood,blood,blood,blood,whole insect
+126	macrophages,bacterial cells,feces
+127	heart tissue,macrophages,muscle,liver,bacterial cells,brain,blood,blood,blood,plant,feces
+128	macrophages,bacterial cells,brain
+129	macrophages,bacterial cells,feces
+130	bacterial cells,brain,plant,feces
+131	bacterial cells,brain,plant,feces
+132	urine,bacterial cells,blood,blood,blood,blood,feces
+133	bacterial cells,brain,feces
+134	algae,bacterial cells,blood,feces
+135	macrophages,liver,bacterial cells,brain,blood,blood,blood,blood,plant,breast,feces
+136	macrophages,bacterial cells,whole insect,breast,feces
+137	urine,bacterial cells,blood,blood,feces
+138	urine,algae,heart tissue,macrophages,muscle,bacterial cells,brain,blood,blood,blood,plant,breast,feces
+139	urine,macrophages,bacterial cells,brain,plant,feces
+140	algae,heart tissue,muscle,liver,bacterial cells,brain,blood,blood,blood,blood,blood,blood,blood,blood,blood,whole insect,breast
+141	macrophages,bacterial cells,plant,feces
+142	urine,heart tissue,macrophages,muscle,liver,bacterial cells,blood,blood,blood,blood,blood,blood,blood,feces
+143	macrophages,bacterial cells,brain,blood,feces
+144	macrophages,bacterial cells,feces
+145	bacterial cells,blood,blood,feces
+146	algae,macrophages,bacterial cells,feces
+147	muscle,bacterial cells,blood,blood,blood,blood,blood
+148	algae,heart tissue,macrophages,muscle,liver,bacterial cells,blood,blood,blood,blood,blood
+149	urine,heart tissue,liver,bacterial cells,brain,blood,blood,blood,blood,blood
+150	macrophages,bacterial cells,whole insect,feces
+151	bacterial cells,brain,whole insect,feces
+152	urine,macrophages,bacterial cells,feces
+153	heart tissue,macrophages,bacterial cells
+154	urine,macrophages,bacterial cells,whole insect,feces
+155	urine,bacterial cells,feces
+156	liver,bacterial cells,plant
+157	urine,macrophages,bacterial cells
+158	intestine,liver,liver,bacterial cells,bacterial cells,blood,blood
+159	intestine,yeast cells,adipose tissue,bacterial cells,bacterial cells,lung,cerebrospinal fluid
+160	urine,bacterial cells,blood
+161	intestine,yeast cells,cultured cells,cultured cells,bacterial cells,lung,feces,feces
+162	intestine,intestine,kidney,bacterial cells,lung,lung,feces
+163	intestine,yeast cells,liver,bacterial cells,blood
+164	urine,macrophages,feces
+165	urine,macrophages,plant
+166	urine,algae,heart tissue,muscle,liver,brain,blood,blood,blood,blood,blood,blood,blood,plant
+167	urine,blood,blood,blood,blood
+168	urine,whole insect,plant
+169	urine,liver,blood,feces
+170	urine,heart tissue,macrophages,muscle,brain,blood,blood,feces
+171	urine,heart tissue,macrophages,brain,blood,blood,blood,plant,feces
+172	urine,heart tissue,macrophages,brain,blood,plant
+173	urine,algae,macrophages
+174	urine,plant,feces
+175	urine,heart tissue,macrophages,muscle,blood,blood,blood
+176	urine,macrophages,plant
+177	urine,algae,plant
+178	urine,macrophages,feces
+179	urine,muscle,liver,blood,blood,blood,blood
+180	urine,algae,heart tissue,macrophages,muscle,liver,brain,blood,blood,blood,blood,blood,blood,plant
+181	urine,macrophages,brain,blood,whole insect,feces
+182	urine,algae,macrophages,brain,blood,blood,blood,feces
+183	urine,algae,plant
+184	urine,algae,blood,blood,whole insect
+185	yeast cells,bacterial cells,bacterial cells,bacterial cells,bacterial cells,feces,feces
+186	cultured cells,cultured cells,liver,bacterial cells,bacterial cells,bacterial cells,blood,feces,feces
+187	cultured cells,bacterial cells,bacterial cells
+188	bacterial cells,bacterial cells,bacterial cells
+189	bacterial cells,bacterial cells,b cells
+190	cultured cells,bacterial cells,bacterial cells,lung,b cells,feces
+191	liver,bacterial cells,bacterial cells,blood
+192	kidney,liver,bacterial cells,bacterial cells,lung
+193	cultured cells,bacterial cells,bacterial cells
+194	intestine,kidney,bacterial cells,bacterial cells,lung,lung,b cells
+195	intestine,bacterial cells,bacterial cells,feces,feces
+196	yeast cells,bacterial cells,bacterial cells
+197	kidney,bacterial cells,lung,b cells
+198	intestine,yeast cells,bacterial cells,bacterial cells,bacterial cells,feces
+199	mononuclear cells,retina,cultured cells,hek cells,liver
+200	mononuclear cells,retina,cultured cells,hek cells,liver
+201	retina,cultured cells,liver
+202	mononuclear cells,retina,cultured cells,hek cells,liver
+203	retina,cultured cells,liver
+204	mononuclear cells,retina,cultured cells,hek cells,liver
+205	mononuclear cells,retina,cultured cells,hek cells,liver
+206	mononuclear cells,retina,hek cells,liver
+207	mononuclear cells,retina,cultured cells,hek cells,liver
+208	mononuclear cells,retina,cultured cells,hek cells,liver
+209	mononuclear cells,retina,hek cells,liver
+210	mononuclear cells,retina,cultured cells,hek cells,liver
+211	mononuclear cells,retina,cultured cells,hek cells,liver
+212	mononuclear cells,hek cells,liver
+213	mononuclear cells,retina,hek cells,liver
+214	mononuclear cells,retina,cultured cells,hek cells,liver
+215	mononuclear cells,retina,hek cells,liver
+216	mononuclear cells,retina,cultured cells,hek cells,liver
+217	mononuclear cells,hek cells,liver
+218	glioma cells,blood,blood
+219	urine,liver,blood,blood
+220	cultured cells,blood,feces,feces
+221	yeast cells,bacterial cells,blood,blood
+222	intestine,cultured cells,liver,blood,blood
+223	blood,blood,blood
+224	algae,cultured cells,cultured cells,bacterial cells,blood,blood,blood,blood,blood,lung,cerebrospinal fluid
+225	intestine,kidney,blood,blood,blood,lung
+226	intestine,blood,blood,lung
+227	liver,blood,blood,blood,blood,blood,breast
+228	blood,blood,whole insect,breast
+229	heart tissue,muscle,liver,blood,blood,blood,blood,blood,blood,blood,blood,whole insect
+230	algae,blood,blood,whole insect,breast
+231	blood,whole insect,breast
+232	blood,blood,breast
+233	blood,blood,whole insect,breast
+234	blood,blood,whole insect,breast
+235	macrophages,blood,blood,whole insect
+236	blood,blood,whole insect
+237	blood,blood,whole insect,breast
+238	blood,blood,breast
+239	blood,blood,whole insect,breast
+240	blood,blood,blood,whole insect,breast
+241	blood,blood,blood
+242	blood,blood,whole insect
+243	blood,blood,whole insect,breast
+244	blood,blood,breast
+245	blood,whole insect,breast
+246	blood,whole insect,breast
+247	blood,blood,breast
+248	blood,blood,whole insect,breast
+249	macrophages,blood,whole insect,breast
+250	blood,blood,whole insect,breast
+251	blood,blood,breast
+252	blood,blood,whole insect,breast
+253	blood,blood,whole insect
+254	macrophages,blood,whole insect,breast
+255	algae,blood,blood,blood,breast
+256	heart tissue,muscle,brain,blood,blood,blood,blood,blood,blood,blood,breast
+257	blood,blood,whole insect
+258	muscle,blood,blood,blood,blood,whole insect,breast
+259	blood,whole insect,breast
+260	mononuclear cells,hek cells,blood,blood,breast
+261	blood,blood,breast
+262	heart tissue,brain,blood,blood,blood,blood,whole insect
+263	algae,blood,breast
+264	blood,blood,blood
+265	heart tissue,muscle,liver,brain,blood,blood,blood,blood,blood,blood,blood
+266	heart tissue,muscle,blood,blood,blood,blood
+267	blood,whole insect,breast
+268	blood,blood,breast
+269	blood,whole insect,breast
+270	algae,blood,whole insect
+271	intestine,liver,lung
+272	intestine,feces,feces
+273	intestine,feces,feces
+274	intestine,yeast cells,bacterial cells,feces,feces
+275	intestine,liver,liver,adipose tissue,bacterial cells,blood,feces,feces
+276	intestine,yeast cells,bacterial cells,feces
+277	intestine,yeast cells,bacterial cells,bacterial cells,lung,lung,feces,feces
+278	intestine,intestine,liver,bacterial cells,lung
+279	intestine,feces,feces
+280	intestine,intestine,cultured cells,b cells
+281	intestine,feces,feces
+282	intestine,liver,feces
+283	intestine,urine,feces
+284	intestine,feces,feces
+285	intestine,blood,blood,lung
+286	intestine,urine,feces
+287	intestine,yeast cells,kidney,cultured cells,cultured cells,liver,bacterial cells,bacterial cells,bacterial cells,blood,blood,blood,blood,lung,lung
+288	intestine,cultured cells,cultured cells,b cells
+289	intestine,yeast cells,kidney,bacterial cells,bacterial cells,lung
+290	intestine,urine,b cells
+291	algae,heart tissue,heart tissue,macrophages,muscle,brain,blood,blood,blood,blood,blood,plant
+292	algae,heart tissue,macrophages,muscle,liver,brain,blood,blood,blood,blood,blood,blood,blood
+293	algae,macrophages,brain,blood
+294	algae,blood,whole insect
+295	algae,blood,whole insect
+296	algae,macrophages,feces
+297	liver,blood,blood
+298	intestine,liver,blood,feces
+299	liver,blood,feces
+300	liver,blood,blood
+301	liver,blood,blood
+302	kidney,liver,liver,blood,lung
+303	intestine,algae,cultured cells,liver,blood,lung,lung
+304	liver,liver,blood
+305	cultured cells,liver,bacterial cells,blood,feces,feces
+306	mononuclear cells,retina,hek cells
+307	mononuclear cells,retina,cultured cells,hek cells
+308	mononuclear cells,retina,cultured cells,hek cells
+309	mononuclear cells,retina,hek cells
+310	mononuclear cells,retina,cultured cells,hek cells
+311	mononuclear cells,retina,cultured cells,hek cells
+312	mononuclear cells,retina,cultured cells,hek cells
+313	mononuclear cells,retina,cultured cells,hek cells
+314	mononuclear cells,retina,cultured cells,hek cells
+315	mononuclear cells,retina,cultured cells,hek cells
+316	mononuclear cells,retina,cultured cells,hek cells
+317	mononuclear cells,cultured cells,hek cells
+318	mononuclear cells,cultured cells,hek cells
+319	mononuclear cells,cultured cells,hek cells
+320	mononuclear cells,cultured cells,hek cells
+321	mononuclear cells,cultured cells,hek cells
+322	intestine,kidney,blood
+323	urine,kidney,liver,b cells
+324	kidney,blood,feces
+325	intestine,kidney,blood,lung
+326	kidney,feces,feces
+327	kidney,cultured cells,blood,lung
+328	kidney,liver,lung
+329	kidney,blood,blood,blood
+330	yeast cells,kidney,bacterial cells,bacterial cells,lung
+331	kidney,cultured cells,bacterial cells
+332	kidney,lung,feces,feces
+333	yeast cells,kidney,bacterial cells,bacterial cells,lung,b cells
+334	yeast cells,bacterial cells,bacterial cells
+335	yeast cells,bacterial cells,bacterial cells,b cells
+336	yeast cells,liver,bacterial cells,bacterial cells,feces,feces
+337	yeast cells,bacterial cells,bacterial cells
+338	yeast cells,bacterial cells,bacterial cells
+339	urine,yeast cells,cultured cells,cultured cells,cultured cells,liver,bacterial cells,bacterial cells,bacterial cells,blood,blood,blood,blood,lung,lung,b cells
+340	cultured cells,cultured cells,bacterial cells,blood
+341	macrophages,liver,brain,blood,blood,plant,feces
+342	liver,blood,blood,blood,blood,plant
+343	brain,blood,blood,blood,blood,plant
+344	macrophages,brain,blood,plant,feces
+345	brain,whole insect,plant
+346	heart tissue,muscle,liver,brain,blood,blood,blood,blood,blood,blood,blood,plant
+347	cultured cells,cultured cells,cerebrospinal fluid
+348	cultured cells,cultured cells,cerebrospinal fluid
+349	liver,b cells,cerebrospinal fluid,feces
+350	macrophages,blood,feces
+351	mononuclear cells,hek cells,blood
+352	heart tissue,muscle,brain,blood,blood,blood,blood,whole insect
+353	blood,blood,blood
+354	cultured cells,feces,feces
+355	yeast cells,cultured cells,bacterial cells
+356	yeast cells,cultured cells,cultured cells,liver,bacterial cells,bacterial cells,blood,blood,blood,lung,lung,b cells
+357	algae,cultured cells,cultured cells,bacterial cells,feces
+358	cultured cells,lung,b cells,feces
+359	cultured cells,cultured cells,liver
+360	algae,cultured cells,cultured cells,feces
+361	algae,cultured cells,lung,b cells
+362	cultured cells,adipose tissue,blood,feces
+363	yeast cells,cultured cells,bacterial cells
+364	yeast cells,cultured cells,cultured cells,bacterial cells
+365	heart tissue,heart tissue,macrophages,muscle,liver,brain,blood,blood,blood,blood,blood,blood,blood,blood
+366	heart tissue,muscle,liver,brain,blood,blood,blood,blood,blood,blood,blood
+367	macrophages,muscle,brain,blood,blood,blood
+368	muscle,brain,blood
+369	macrophages,brain,whole insect
+370	liver,brain,blood
+371	macrophages,blood,whole insect
+372	macrophages,whole insect,feces
+373	blood,blood,whole insect
+374	heart tissue,muscle,blood,blood,whole insect
+375	blood,blood,blood,whole insect
+376	intestine,adipose tissue,blood,lung
+377	adipose tissue,blood,feces,feces
+378	yeast cells,bacterial cells,feces
+379	intestine,blood,blood,lung,feces,feces
+380	intestine,urine,feces,feces
+381	urine,feces,feces
+382	algae,feces,feces
+383	intestine,lung,feces,feces
+384	intestine,blood,blood,blood,lung,lung,feces,feces
+385	yeast cells,bacterial cells,feces,feces
+386	intestine,blood,blood,feces
+387	heart tissue,macrophages,muscle,blood,blood
+388	heart tissue,macrophages,muscle,blood
+389	heart tissue,macrophages,muscle
+390	algae,yeast cells,cultured cells,liver,bacterial cells,bacterial cells,lung,b cells
+391	intestine,cultured cells,blood,blood
+392	urine,cultured cells,blood,blood
+393	cultured cells,blood,blood
+394	yeast cells,cultured cells,bacterial cells
+395	yeast cells,cultured cells,bacterial cells
+396	urine,algae,blood,lung
+397	urine,bacterial cells,lung,b cells
+398	urine,blood,blood
+399	intestine,blood,blood,b cells
+400	intestine,liver,blood,blood,b cells
+401	intestine,blood,blood,lung
+402	bacterial cells,blood,blood
+403	yeast cells,bacterial cells,blood
+404	blood,blood,blood,blood
+405	yeast cells,bacterial cells,blood,blood,blood,b cells
+406	blood,blood,lung
+407	liver,blood,blood
+408	intestine,blood,blood,lung
+409	blood,blood,blood
+410	yeast cells,bacterial cells,blood,lung
+411	yeast cells,bacterial cells,blood
+412	bacterial cells,lung,lung,b cells
+413	yeast cells,bacterial cells,lung
+414	algae,blood,blood
+415	yeast cells,bacterial cells,bacterial cells
+416	yeast cells,bacterial cells,blood,b cells
+417	yeast cells,liver,bacterial cells
+418	heart tissue,liver,blood,blood,blood,blood,blood
+419	heart tissue,blood,blood,blood,blood
+420	muscle,liver,blood,blood,blood,blood,blood,blood,blood
+421	heart tissue,blood,blood,blood,blood
+422	blood,blood,blood
+423	heart tissue,muscle,liver,blood,blood,blood
+424	heart tissue,muscle,blood,blood
+425	heart tissue,muscle,liver,blood,blood,blood,blood,blood,blood
+426	heart tissue,muscle,blood,blood
+427	heart tissue,blood,blood
+428	heart tissue,muscle,liver,blood,blood,blood,blood
+429	liver,blood,blood,blood,blood
+430	muscle,blood,blood
+431	liver,blood,blood
+432	muscle,liver,blood,blood,blood
+433	liver,blood,blood
+434	muscle,liver,blood,blood,blood,blood
+435	heart tissue,heart tissue,liver,blood
+436	liver,blood,blood,blood,blood,blood
+437	blood,blood,blood
+438	heart tissue,liver,blood
+439	muscle,liver,blood
+440	blood,blood,blood
+441	muscle,blood,blood
+442	muscle,liver,blood,blood
+443	liver,blood,blood,blood
+444	blood,blood,blood,blood
+445	blood,blood,blood
+446	blood,blood,blood,blood
+447	muscle,blood,blood,blood,blood,blood
+448	blood,blood,blood,blood
+449	heart tissue,blood,blood,blood
+450	heart tissue,liver,blood
+451	blood,blood,blood
+452	muscle,liver,blood,blood,blood
+453	blood,blood,blood
+454	blood,blood,blood
+455	blood,blood,blood
+456	blood,blood,blood
+457	blood,blood,blood,blood
+458	muscle,blood,blood
+459	muscle,blood,blood,blood
+460	muscle,liver,blood
+461	heart tissue,muscle,blood
+462	heart tissue,blood,blood,blood
+463	blood,blood,blood

@@ -1,0 +1,224 @@
+	0
+0	antibiotic resistance,antibiotic resistance,chronic fatigue syndrome,kidney disease,cancer,cancer,cancer,cancer,cancer,diabetes,obesity,obesity
+1	antibiotic resistance,antibiotic resistance,chronic fatigue syndrome,kidney disease,cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer,bacterial infection,interstitial cystitis,diabetes,obesity,obesity
+2	cancer,cancer,cancer,diabetes,obesity
+3	chronic fatigue syndrome,cancer,cancer,cancer,cancer,diabetes,obesity
+4	antibiotic resistance,antibiotic resistance,chronic fatigue syndrome,kidney disease,cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer,bacterial infection,interstitial cystitis,diabetes,obesity,obesity
+5	cancer,cancer,diabetes
+6	antibiotic resistance,chronic fatigue syndrome,kidney disease,cancer,cancer,cancer,cancer,cancer,interstitial cystitis,diabetes,obesity,obesity
+7	chronic fatigue syndrome,kidney disease,cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer,bacterial infection,interstitial cystitis,diabetes,obesity
+8	antibiotic resistance,chronic fatigue syndrome,cancer,cancer,cancer,diabetes,obesity,obesity
+9	cancer,cancer,diabetes,obesity
+10	antibiotic resistance,antibiotic resistance,chronic fatigue syndrome,kidney disease,cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer,bacterial infection,interstitial cystitis,diabetes,obesity,obesity
+11	antibiotic resistance,chronic fatigue syndrome,cancer,interstitial cystitis,diabetes
+12	antibiotic resistance,cancer,diabetes
+13	kidney disease,cancer,cancer,interstitial cystitis,diabetes,obesity,obesity
+14	cancer,diabetes,obesity
+15	antibiotic resistance,antibiotic resistance,cancer,cancer,cancer,cancer,cancer,cancer,cancer,diabetes,obesity,obesity
+16	antibiotic resistance,antibiotic resistance,kidney disease,cancer,cancer,cancer,cancer,cancer,cancer,diabetes,obesity,obesity
+17	chronic fatigue syndrome,kidney disease,cancer,cancer,bacterial infection,diabetes,obesity,obesity
+18	antibiotic resistance,chronic fatigue syndrome,cancer,diabetes
+19	kidney disease,cancer,cancer,cancer,cancer,diabetes,obesity,obesity
+20	cancer,cancer,cancer,cancer,cancer,cancer,bacterial infection,diabetes,obesity,obesity
+21	antibiotic resistance,antibiotic resistance,chronic fatigue syndrome,kidney disease,cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer,bacterial infection,interstitial cystitis,diabetes,obesity,obesity
+22	cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer,bacterial infection,diabetes,obesity,obesity
+23	antibiotic resistance,antibiotic resistance,interstitial cystitis,diabetes
+24	antibiotic resistance,chronic fatigue syndrome,kidney disease,cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer,bacterial infection,interstitial cystitis,diabetes,obesity,obesity
+25	cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer,diabetes,obesity
+26	antibiotic resistance,antibiotic resistance,chronic fatigue syndrome,kidney disease,cancer,cancer,cancer,cancer,cancer,cancer,cancer,bacterial infection,interstitial cystitis,diabetes,obesity,obesity
+27	antibiotic resistance,antibiotic resistance,kidney disease,cancer,cancer,cancer,cancer,cancer,cancer,diabetes,obesity,obesity
+28	antibiotic resistance,antibiotic resistance,kidney disease,cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer,diabetes,obesity,obesity
+29	chronic fatigue syndrome,kidney disease,cancer,cancer,cancer,cancer,cancer,interstitial cystitis,diabetes,obesity,obesity
+30	antibiotic resistance,cancer,cancer,cancer,cancer,cancer,cancer,interstitial cystitis,diabetes,obesity,obesity
+31	antibiotic resistance,antibiotic resistance,kidney disease,cancer,cancer,cancer,cancer,cancer,bacterial infection,diabetes,obesity
+32	cancer,cancer,cancer,diabetes,obesity
+33	antibiotic resistance,antibiotic resistance,chronic fatigue syndrome,cancer,cancer,cancer,cancer,bacterial infection,diabetes,obesity,obesity
+34	antibiotic resistance,chronic fatigue syndrome,kidney disease,cancer,cancer,cancer,cancer,cancer,cancer,cancer,bacterial infection,interstitial cystitis,diabetes,obesity,obesity
+35	antibiotic resistance,antibiotic resistance,chronic fatigue syndrome,kidney disease,cancer,cancer,cancer,cancer,cancer,cancer,cancer,bacterial infection,diabetes,obesity,obesity
+36	antibiotic resistance,antibiotic resistance,cancer,cancer,cancer,cancer,cancer,cancer,cancer,diabetes,obesity
+37	chronic fatigue syndrome,kidney disease,cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer,bacterial infection,interstitial cystitis,diabetes,obesity
+38	antibiotic resistance,antibiotic resistance,kidney disease,cancer,cancer,cancer,cancer,cancer,diabetes,obesity
+39	chronic fatigue syndrome,bacterial infection,diabetes,obesity
+40	antibiotic resistance,chronic fatigue syndrome,kidney disease,cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer,interstitial cystitis,diabetes,obesity
+41	antibiotic resistance,chronic fatigue syndrome,kidney disease,cancer,cancer,cancer,cancer,bacterial infection,interstitial cystitis,diabetes,obesity
+42	antibiotic resistance,cancer,diabetes
+43	antibiotic resistance,antibiotic resistance,chronic fatigue syndrome,kidney disease,cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer,bacterial infection,interstitial cystitis,diabetes
+44	antibiotic resistance,antibiotic resistance,kidney disease,cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer,interstitial cystitis,diabetes,obesity,obesity
+45	antibiotic resistance,chronic fatigue syndrome,cancer,cancer,cancer,cancer,cancer,bacterial infection,interstitial cystitis,diabetes
+46	chronic fatigue syndrome,kidney disease,cancer,cancer,cancer,cancer,interstitial cystitis,diabetes,obesity
+47	cancer,cancer,cancer,diabetes
+48	kidney disease,cancer,cancer,cancer,diabetes
+49	chronic fatigue syndrome,cancer,cancer,cancer,diabetes,obesity,obesity
+50	antibiotic resistance,antibiotic resistance,kidney disease,cancer,cancer,cancer,cancer,cancer,cancer,cancer,diabetes,obesity
+51	cancer,cancer,diabetes
+52	antibiotic resistance,cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer,diabetes,obesity,obesity
+53	antibiotic resistance,antibiotic resistance,kidney disease,cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer,interstitial cystitis,diabetes,obesity,obesity
+54	cancer,diabetes,obesity
+55	kidney disease,cancer,diabetes
+56	kidney disease,cancer,cancer,cancer,cancer,cancer,diabetes,obesity,obesity
+57	kidney disease,cancer,cancer,cancer,cancer,cancer,cancer,cancer,diabetes,obesity,obesity
+58	chronic fatigue syndrome,kidney disease,cancer,cancer,cancer,cancer,cancer,cancer,cancer,interstitial cystitis
+59	cancer,cancer,cancer,bacterial infection,obesity,obesity
+60	cancer,cancer,cancer
+61	antibiotic resistance,antibiotic resistance,kidney disease,cancer,cancer,cancer,cancer
+62	antibiotic resistance,antibiotic resistance,kidney disease,cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer
+63	antibiotic resistance,antibiotic resistance,kidney disease,cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer
+64	kidney disease,cancer,cancer,obesity,obesity
+65	cancer,cancer,obesity
+66	antibiotic resistance,antibiotic resistance,cancer,cancer
+67	kidney disease,cancer,cancer,cancer,obesity
+68	cancer,cancer,cancer
+69	kidney disease,cancer,cancer
+70	kidney disease,cancer,cancer,cancer,obesity
+71	antibiotic resistance,antibiotic resistance,cancer,cancer,cancer,cancer,obesity
+72	kidney disease,cancer,cancer,cancer
+73	kidney disease,cancer,cancer
+74	chronic fatigue syndrome,cancer,cancer,cancer,cancer,cancer,bacterial infection,interstitial cystitis
+75	chronic fatigue syndrome,cancer,cancer,cancer,cancer,cancer,obesity
+76	chronic fatigue syndrome,cancer,interstitial cystitis
+77	antibiotic resistance,chronic fatigue syndrome,kidney disease,cancer,interstitial cystitis
+78	antibiotic resistance,antibiotic resistance,chronic fatigue syndrome,interstitial cystitis
+79	cancer,cancer,cancer,cancer
+80	antibiotic resistance,antibiotic resistance,chronic fatigue syndrome,cancer,bacterial infection
+81	antibiotic resistance,cancer,cancer,cancer,cancer,cancer
+82	cancer,cancer,cancer,cancer,cancer,cancer
+83	cancer,cancer,cancer,cancer
+84	antibiotic resistance,cancer,cancer,bacterial infection
+85	kidney disease,cancer,cancer,cancer,cancer,cancer,interstitial cystitis
+86	kidney disease,cancer,cancer
+87	cancer,cancer,cancer,obesity
+88	chronic fatigue syndrome,cancer,cancer
+89	cancer,cancer,bacterial infection
+90	cancer,cancer,cancer,cancer,cancer
+91	cancer,cancer,cancer,cancer,cancer,cancer,bacterial infection
+92	cancer,cancer,bacterial infection
+93	cancer,cancer,cancer,cancer,cancer,bacterial infection
+94	cancer,cancer,bacterial infection
+95	antibiotic resistance,cancer,cancer,cancer,cancer,cancer,bacterial infection
+96	antibiotic resistance,environmental exposure,cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer
+97	cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer,bacterial infection
+98	cancer,cancer,bacterial infection
+99	cancer,cancer,cancer,cancer
+100	cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer
+101	cancer,cancer,cancer,cancer,cancer
+102	cancer,obesity,obesity
+103	chronic fatigue syndrome,cancer,cancer
+104	cancer,cancer,interstitial cystitis
+105	antibiotic resistance,antibiotic resistance,cancer,cancer
+106	antibiotic resistance,kidney disease,cancer,cancer
+107	cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer
+108	cancer,cancer,bacterial infection
+109	cancer,cancer,cancer,cancer,bacterial infection
+110	cancer,cancer,cancer,bacterial infection
+111	antibiotic resistance,cancer,cancer,cancer,cancer
+112	cancer,cancer,cancer,cancer,cancer
+113	cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer
+114	environmental exposure,cancer,cancer,bacterial infection
+115	antibiotic resistance,antibiotic resistance,obesity
+116	kidney disease,cancer,cancer
+117	cancer,cancer,interstitial cystitis
+118	antibiotic resistance,antibiotic resistance,cancer
+119	cancer,cancer,cancer
+120	chronic fatigue syndrome,cancer,cancer,cancer,cancer,bacterial infection
+121	kidney disease,cancer,cancer,cancer
+122	cancer,cancer,cancer
+123	antibiotic resistance,environmental exposure,cancer,cancer,cancer,cancer
+124	antibiotic resistance,environmental exposure,cancer
+125	environmental exposure,cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer
+126	antibiotic resistance,environmental exposure,cancer
+127	antibiotic resistance,environmental exposure,cancer
+128	antibiotic resistance,environmental exposure,cancer
+129	antibiotic resistance,environmental exposure,cancer
+130	antibiotic resistance,environmental exposure,cancer
+131	antibiotic resistance,environmental exposure,cancer
+132	antibiotic resistance,environmental exposure,cancer
+133	antibiotic resistance,environmental exposure,cancer
+134	antibiotic resistance,environmental exposure,cancer
+135	environmental exposure,cancer,cancer
+136	antibiotic resistance,environmental exposure,cancer
+137	antibiotic resistance,environmental exposure,cancer
+138	antibiotic resistance,environmental exposure,cancer
+139	antibiotic resistance,environmental exposure,cancer
+140	antibiotic resistance,environmental exposure,cancer
+141	antibiotic resistance,environmental exposure,cancer
+142	antibiotic resistance,environmental exposure,cancer
+143	environmental exposure,cancer,cancer,cancer,cancer,cancer,cancer,cancer
+144	environmental exposure,cancer,cancer,cancer,cancer
+145	antibiotic resistance,environmental exposure,cancer,cancer
+146	antibiotic resistance,environmental exposure,cancer
+147	environmental exposure,cancer,cancer,cancer,cancer
+148	cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer
+149	cancer,cancer,cancer,cancer,cancer
+150	antibiotic resistance,antibiotic resistance,obesity
+151	antibiotic resistance,antibiotic resistance,cancer
+152	kidney disease,cancer,cancer,cancer,cancer,cancer,bacterial infection
+153	cancer,cancer,cancer,cancer,cancer,cancer,heart injury
+154	cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer
+155	antibiotic resistance,antibiotic resistance,obesity
+156	kidney disease,cancer,interstitial cystitis
+157	antibiotic resistance,kidney disease,cancer
+158	kidney disease,cancer,cancer
+159	antibiotic resistance,antibiotic resistance,kidney disease
+160	kidney disease,cancer,cancer,cancer
+161	antibiotic resistance,antibiotic resistance,kidney disease
+162	kidney disease,cancer,cancer
+163	cancer,cancer,cancer,cancer,cancer,bacterial infection,interstitial cystitis
+164	cancer,cancer,cancer,bacterial infection
+165	cancer,cancer,cancer,cancer
+166	cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer
+167	antibiotic resistance,chronic fatigue syndrome,cancer,bacterial infection
+168	antibiotic resistance,cancer,cancer,cancer,cancer
+169	antibiotic resistance,cancer,cancer
+170	cancer,cancer,cancer,cancer,cancer
+171	antibiotic resistance,cancer,cancer
+172	cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer,diabetes,heart injury
+173	cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer
+174	cancer,cancer,cancer,cancer
+175	cancer,cancer,cancer,cancer
+176	antibiotic resistance,antibiotic resistance,cancer
+177	antibiotic resistance,antibiotic resistance,cancer,cancer
+178	antibiotic resistance,antibiotic resistance,interstitial cystitis
+179	antibiotic resistance,antibiotic resistance,interstitial cystitis
+180	antibiotic resistance,antibiotic resistance,cancer
+181	antibiotic resistance,antibiotic resistance,cancer,cancer,cancer,cancer
+182	antibiotic resistance,cancer,cancer
+183	cancer,cancer,cancer,cancer
+184	cancer,cancer,cancer
+185	cancer,cancer,interstitial cystitis
+186	cancer,cancer,interstitial cystitis
+187	cancer,cancer,interstitial cystitis
+188	cancer,cancer,cancer
+189	cancer,cancer,cancer
+190	cancer,cancer,cancer
+191	cancer,cancer,cancer,cancer
+192	cancer,cancer,cancer,cancer,cancer
+193	cancer,cancer,cancer,cancer
+194	cancer,cancer,cancer,cancer,cancer,cancer,cancer
+195	cancer,cancer,cancer
+196	cancer,cancer,cancer
+197	cancer,cancer,cancer,cancer,cancer,cancer
+198	cancer,cancer,cancer,cancer
+199	cancer,cancer,cancer,cancer,cancer,cancer,cancer,cancer
+200	cancer,cancer,cancer,cancer
+201	cancer,cancer,cancer
+202	cancer,cancer,cancer,cancer,cancer,cancer,cancer
+203	cancer,cancer,cancer
+204	cancer,cancer,cancer,cancer
+205	cancer,cancer,cancer
+206	cancer,cancer,cancer,cancer,cancer
+207	cancer,cancer,cancer,heart injury
+208	cancer,cancer,cancer,cancer
+209	cancer,cancer,cancer
+210	cancer,cancer,cancer
+211	cancer,cancer,cancer
+212	cancer,cancer,cancer
+213	cancer,cancer,cancer
+214	cancer,cancer,cancer,cancer
+215	cancer,cancer,cancer,cancer
+216	cancer,cancer,cancer
+217	cancer,cancer,cancer,cancer
+218	cancer,cancer,cancer,cancer
+219	cancer,cancer,cancer
+220	cancer,cancer,cancer,cancer,cancer
+221	cancer,cancer,cancer
+222	cancer,cancer,cancer
